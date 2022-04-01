@@ -1,0 +1,13 @@
+/*ETIQUETAS*/
+
+body {
+    background-color: powderblue;
+}
+
+/*CLASES*/
+.textoCentrado{
+    text-align: center;
+}
+.textoRojo {
+    color: red;
+}

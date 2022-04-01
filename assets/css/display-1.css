@@ -1,0 +1,74 @@
+
+body {
+    background-color: powderblue;
+}
+
+/*CLASES*/
+container{
+    background: #c70606;
+  margin: 2 2 3rem;
+  height: 20rem;
+  display: flex;
+  /* align-items por defecto tiene el valor `stretch` */
+  align-items: start;
+}
+.bg-light{
+    background-image: -moz-linear-gradient();
+} 
+.bg-gradient{
+    background: rgb(2,0,36);
+}
+.center-h {
+    justify-content: center;
+}    
+.text-center{
+    text-align: center;
+}
+.textoRojo {
+    color: rgb(5, 5, 5);
+}
+.row{
+    size: 500px;
+}
+.col-md-12{
+    color: antiquewhite;
+}
+.text-md-end{
+
+}
+.col-md-6{
+
+}
+.text-lg-start{
+
+}
+.btn btn-success{
+
+}
+.display-5{
+   
+}
+.col-md-4{
+
+}
+.form-check{
+
+}
+.form-check-label{
+
+}
+.form-control{
+    
+}
+.row g-3{
+
+}
+.btn{
+
+} 
+.btn-success{
+    box-decoration-break: slice;
+}
+.form.label{
+    
+}
